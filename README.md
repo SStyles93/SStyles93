@@ -71,5 +71,5 @@
 
 [![42 Profile](https://img.shields.io/badge/42-sstyles-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/sstyles)
 
-![Libft](https://img.shields.io/badge/Libft-100%2F100-2EA44F?style=flat-square&logo=42&logoColor=white)
-![ft_printf](https://img.shields.io/badge/ft__printf-125%2F100-F0A500?style=flat-square&logo=42&logoColor=white)
+[![Libft](https://badge42.vercel.app/api/v2/sstyles/project/libft)](https://profile.intra.42.fr/users/sstyles)
+[![ft_printf](https://badge42.vercel.app/api/v2/sstyles/project/ft_printf)](https://profile.intra.42.fr/users/sstyles)
