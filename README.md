@@ -16,12 +16,7 @@
 
 <img align="right" src="https://streak-stats.demolab.com?user=SStyles93&theme=dark&hide_border=true" />
 
-- 🎮 Co-founder @ [PixelPulse](https://sstyles93.github.io) — tools, shaders & asset packs for Unity
-- 🔭 Focused on low-level systems, graphics programming & game engine architecture
-- 🎓 Currently studying at 42
-- 📫 [samuel.styles93@gmail.com](mailto:samuel.styles93@gmail.com)
-
-<br/><br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStyles93&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
@@ -68,19 +63,9 @@
 
 <div align="center">
 
-<a href="https://github.com/SStyles93/libft">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="Libft" title="Libft — 100/100" />
-</a>
-<a href="https://github.com/SStyles93/ft_printf">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" title="ft_printf — 125/100" />
-</a>
+| <a href="https://github.com/SStyles93/libft"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="Libft" /></a> | <a href="https://github.com/SStyles93/ft_printf"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" /></a> |
+|:---:|:---:|
+| $\textcolor{green}{\text{100/100}}$ | $\textcolor{green}{\text{125/125}}$ |
 
 </div>
 
----
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStyles93&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
