@@ -14,8 +14,12 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SStyles93&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-<img src="https://streak-stats.demolab.com?user=SStyles93&theme=dark&hide_border=true" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SStyles93&layout=compact&theme=dark&hide_border=true&langs_count=8" width="49%" />
+<img src="https://streak-stats.demolab.com?user=SStyles93&theme=dark&hide_border=true" width="49%" />
+
+</div>
 
 ---
 
