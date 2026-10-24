@@ -14,17 +14,14 @@
 
 ---
 
-## GitHub Stats
+<img align="right" src="https://streak-stats.demolab.com?user=SStyles93&theme=dark&hide_border=true" />
 
-<div align="center">
+- 🎮 Co-founder @ [PixelPulse](https://sstyles93.github.io) — tools, shaders & asset packs for Unity
+- 🔭 Focused on low-level systems, graphics programming & game engine architecture
+- 🎓 Currently studying at 42
+- 📫 [samuel.styles93@gmail.com](mailto:samuel.styles93@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SStyles93&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SStyles93&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStyles93&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-</div>
+<br/><br/><br/>
 
 ---
 
@@ -69,7 +66,21 @@
 
 ## 42 School
 
-[![42 Profile](https://img.shields.io/badge/42-sstyles-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/sstyles)
+<div align="center">
 
-[![Libft](https://badge42.vercel.app/api/v2/sstyles/project/libft)](https://profile.intra.42.fr/users/sstyles)
-[![ft_printf](https://badge42.vercel.app/api/v2/sstyles/project/ft_printf)](https://profile.intra.42.fr/users/sstyles)
+<a href="https://github.com/SStyles93/libft">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="Libft" title="Libft — 100/100" />
+</a>
+<a href="https://github.com/SStyles93/ft_printf">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" title="ft_printf — 125/100" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SStyles93&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+</div>
