@@ -66,7 +66,7 @@
 
 <div align="center">
 
-| <a href="https://github.com/SStyles93/libft"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libfte.png" alt="Libft" /></a> | <a href="https://github.com/SStyles93/ft_printf"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" /></a> | <a href="https://github.com/SStyles93/get_next_line"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/gnl.png" alt="get_next_line" /></a> |
+| <a href="https://github.com/SStyles93/libft"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft" /></a> | <a href="https://github.com/SStyles93/ft_printf"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png" alt="ft_printf" /></a> | <a href="https://github.com/SStyles93/get_next_line"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="get_next_line" /></a> |
 |:---:|:---:|
 | $\textcolor{green}{\text{100/100 (max 100)}}$ | $\textcolor{green}{\text{125/100}}$ |  $\textcolor{green}{\text{125/100}}$ |
 
